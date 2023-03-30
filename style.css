@@ -1,0 +1,14 @@
+body {
+  background-color: #252525;
+  color: white;
+  min-width: 15rem;
+}
+
+input {
+  background-color: inherit;
+  color: inherit;
+}
+
+.help-text {
+  color: gray;
+}
